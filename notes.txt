@@ -1,0 +1,4 @@
+Notes:
+1. The blue circle is icon1.svg
+2. The red square is icon2.svg
+3. All files are loaded from attachments
