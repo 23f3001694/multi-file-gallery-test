@@ -1,0 +1,5 @@
+Welcome to the Multi-File Gallery!
+
+This page demonstrates loading multiple attachments:
+- SVG icons
+- Text files
